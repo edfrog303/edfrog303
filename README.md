@@ -1,0 +1,15 @@
+-  Olá me chamo Edmilson Neto é tenho 18 anos
+-  
+-  Estou interessado na área de automação de processos é em criação de softwares.
+-  
+-  Estou cursando o curso de ciência da computação.
+-  
+-  Estou disposto a trabalhar em equipes ou sozinho, mas prefiro trabalhar em equipes.
+-  
+-  Atualmente estou focando em desenvolver em python ou c++.
+- 
+-  Meu linkedln: https://www.linkedin.com/in/edmilson-neto-02a659245/
+-  
+-  Tenho um conhecimento médio de inglês.
+-
+- Me localizo na área a matasul em Pernambuco.
